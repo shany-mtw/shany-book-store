@@ -1,0 +1,14 @@
+*This is a web page for searching for product details and display results with total price of all filtered rows
+
+* you can search with customer name,product_name or price
+
+*database is book_sales in database folder(data is already inserted using script
+you can truncate table and run script again to check)
+
+*sample search result available in sample_result_screen folder
+
+*database conncetion file is dbconnect.php
+
+*index.php is the main file
+
+*done by shany mathew(mshanyeattickal@gmail.com)
